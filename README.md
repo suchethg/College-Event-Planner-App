@@ -1,1 +1,1 @@
-# College-Event-Planner
+# College-Event-Planner-App
